@@ -57,3 +57,10 @@
 </p>
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=JuanCirera&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+
+##
+
+<a href="https://www.linkedin.com/in/juan-francisco-cirera-rosa-98a6b5176/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
+
+
