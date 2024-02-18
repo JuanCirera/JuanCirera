@@ -13,7 +13,7 @@
 <p align="left">
     <a href="https://laravel.com/" target="_blank">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg"
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg"
       alt="laravel"
       width="40"
       height="40"
