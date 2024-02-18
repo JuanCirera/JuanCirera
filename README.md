@@ -54,6 +54,15 @@
       height="40"
     />
   </a>
+  </a>
+    <a>
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg"
+      alt="react"
+      width="40"
+      height="40"
+    />
+  </a>
 </p>
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=JuanCirera&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
